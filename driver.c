@@ -2,6 +2,7 @@
 #include <linux/kernel.h>
 #include <linux/init.h>
 #include <linux/leds.h>
+#include <linux/leds.h>
 #include <linux/gpio.h>
 #include <linux/slab.h>
 #include <linux/module.h>
