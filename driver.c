@@ -31,6 +31,8 @@ void ledd_brightness_set(struct led_classdev * led_dev,enum led_brightness brigh
 static int __init led_init(void)
 static int __init led_init(void)
 static int __init led_init(void)
+static int __init led_init(void)
+static int __init led_init(void)
 {
 	int ret;
 	led_dev.name = "myled";
